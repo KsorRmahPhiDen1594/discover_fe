@@ -1,0 +1,190 @@
+{
+  "Common": {
+    "loading": "loading..."
+  },
+  "Navigation": {
+    "title": "Thư mục công cụ AI Tap4 nguồn mở",
+    "discover": "Khám phá AI",
+    "submit": "Gửi",
+    "newtools": "Công cụ mới",
+    "startup": "Khởi động",
+    "menu": "menu",
+    "aitools": "Công cụ AI",
+    "usergrowth": "UserGrowth",
+    "articles": "Bài viết",
+    "pricing": "Giá cả"
+  },
+  "Footer": {
+    "title": "Thư mục công cụ AI Tap4",
+    "subTitle": "Khám phá các công cụ AI tốt nhất năm 2024 với Thư mục công cụ AI Tap4!",
+    "support": "Hỗ trợ",
+    "tap4": "Tap4 AI",
+    "tattoo": "Trình tạo hình xăm AI",
+    "privacy": "Chính sách bảo mật",
+    "termsConditions": "Điều khoản & Điều kiện",
+    "contactUs": "Liên hệ với chúng tôi"
+  },
+  "Faq": {
+    "title": "Câu hỏi thường gặp",
+    "1": {
+      "question": "Thư mục công cụ AI Tap4 mã nguồn mở là gì?",
+      "answer": "Thư mục công cụ AI Tap4 - tap4.ai đang xây dựng một thư mục công cụ ai giúp bạn có được các công cụ ai yêu thích của mình. Nó có thể có các công cụ viết ai, công cụ đánh dấu ai, công cụ diễn giải ai, công cụ seo ai, công cụ nghiên cứu ai, công cụ tạo ai, công cụ nghiên cứu ai, công cụ nghệ thuật ai, công cụ âm nhạc ai, công cụ video ai, công cụ mã hóa ai, công cụ ảnh ai và nhiều hơn nữa tại đây."
+    },
+    "2": {
+      "question": "Làm thế nào để tìm thấy công cụ ai của bạn trong thư mục công cụ ai tap4?",
+      "answer-1": "1. Mở tap4.ai.",
+      "answer-2": "2. Khám phá các công cụ ai trong thư mục công cụ ai tap4.",
+      "answer-3": "3. Nhấp vào các công cụ ai mà bạn cần để biết chi tiết và truy cập vào đó."
+    },
+    "3": {
+      "question": "Các tính năng chính của Thư mục công cụ AI Tap4 là gì?",
+      "answer-1": "1. Thư mục công cụ AI miễn phí: Bạn có thể tìm thấy Công cụ AI yêu thích của mình miễn phí tại đây.",
+      "answer-2": "2. Danh sách khởi động: Danh sách khởi động miễn phí dành cho các nhà phát triển công cụ ai."
+    },
+    "4": {
+      "question": "Gửi công cụ ai đến Thư mục công cụ AI Tap4 có miễn phí không?",
+      "answer": "Có, hiện tại là miễn phí. Nhưng bạn nên chia sẻ liên kết ngược cho Thư mục công cụ AI Tap4!"
+    },
+    "5": {
+      "question": "Danh sách các danh mục Công cụ AI mà Tap4 AI Tools Directory hỗ trợ là gì?",
+      "answer": "Chúng tôi sẽ hỗ trợ tất cả các loại Công cụ AI sau. Vui lòng đợi vài ngày."
+    },
+    "6": {
+      "question": "Tần suất cập nhật các công cụ AI trong Tap4 AI Directory là bao nhiêu?",
+      "answer": "Danh sách các công cụ AI sẽ được cập nhật hàng ngày."
+    },
+    "7": {
+      "question": "Nó có hỗ trợ GPT-4o hay Sora AI ở đây không?",
+      "answer": "Bạn có thể tải công cụ GPT-4o hoặc Sora AI tại đây. Sau đây là video giới thiệu về GPT-4o và Sora, bạn có thể truy cập trang web của các công cụ."
+    },
+    "8": {
+      "question": "Khắc phục sự cố",
+      "answer": "Nếu nội dung không hiển thị, hãy thử trình duyệt khác, xóa bộ nhớ đệm. Nếu sự cố vẫn tiếp diễn, hãy liên hệ với chúng tôi theo địa chỉ contact@6677.ai."
+    },
+    "9": {
+      "question": "Nội dung của Tap4 AI Directory được tạo ra như thế nào?",
+      "answer": "Nội dung mô tả về các công cụ ai được tạo ra bởi GPT-4o từ OpenAI."
+    },
+    "10": {
+      "question": "Quyền sử dụng các công cụ AI là gì?",
+      "answer": "Tap4 AI Tools Directory chỉ là AI Directory dành cho các công cụ AI. Quyền sử dụng các công cụ AI dựa trên trang web của các công cụ AI."
+    },
+    "11": {
+      "question": "Webui của Tap4 AI Directory có phải là mã nguồn mở không?",
+      "answer": "Có, chúng tôi sẽ mã nguồn mở webui của Tap4 AI Directory trên github (https://github.com/6677-ai/tap4-ai-webui). Vui lòng đánh dấu sao cho chúng tôi."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Chính sách bảo mật cho Danh mục công cụ AI Tap4 nguồn mở",
+      "1-p": "Trang này được sử dụng để thông báo cho khách truy cập về các chính sách của tôi liên quan đến việc thu thập, sử dụng và tiết lộ Thông tin cá nhân nếu bất kỳ ai quyết định sử dụng Dịch vụ của tôi. Nếu bạn chọn sử dụng Dịch vụ của tôi, thì bạn đồng ý với việc thu thập và sử dụng thông tin liên quan đến chính sách này. Thông tin cá nhân mà tôi thu thập được sẽ được sử dụng để cung cấp và cải thiện Dịch vụ. Tôi sẽ không sử dụng hoặc chia sẻ thông tin của bạn với bất kỳ ai ngoại trừ những trường hợp được mô tả trong Chính sách bảo mật này. Các thuật ngữ được sử dụng trong Chính sách bảo mật này có cùng ý nghĩa như trong Điều khoản và điều kiện của chúng tôi.",
+      "2-h2": "1. Thu thập và sử dụng thông tin",
+      "2-p": "Để có trải nghiệm tốt hơn, khi sử dụng Dịch vụ của chúng tôi, tôi có thể yêu cầu bạn cung cấp cho chúng tôi một số thông tin nhận dạng cá nhân nhất định. Thông tin mà tôi yêu cầu sẽ được lưu trên thiết bị của bạn và tôi không thu thập theo bất kỳ cách nào. Ứng dụng sử dụng các dịch vụ của bên thứ ba có thể thu thập thông tin được sử dụng để nhận dạng bạn.",
+      "3-h2": "2. Dữ liệu nhật ký",
+      "3-p": "Tôi muốn thông báo với bạn rằng bất cứ khi nào bạn sử dụng Dịch vụ của tôi, trong trường hợp ứng dụng có lỗi, tôi sẽ thu thập dữ liệu và thông tin (thông qua các sản phẩm của bên thứ ba) trên điện thoại của bạn được gọi là Dữ liệu nhật ký. Dữ liệu nhật ký này có thể bao gồm thông tin như địa chỉ Giao thức Internet ('IP') của thiết bị, tên thiết bị, phiên bản hệ điều hành, cấu hình ứng dụng khi sử dụng Dịch vụ của tôi, thời gian và ngày bạn sử dụng Dịch vụ,nd other statistics.",
+      "4-h2": "3. Cookie",
+      "4-p": "Cookie là các tệp có một lượng nhỏ dữ liệu thường được sử dụng làm mã định danh duy nhất ẩn danh. Những mã này được gửi đến trình duyệt của bạn từ các trang web bạn truy cập và được lưu trữ trên bộ nhớ trong của thiết bị. Dịch vụ này không sử dụng \"cookie\" này một cách rõ ràng. Tuy nhiên, ứng dụng có thể sử dụng mã và thư viện của bên thứ ba sử dụng \"cookie\" để thu thập thông tin và cải thiện dịch vụ của họ. Bạn có tùy chọn chấp nhận hoặc từ chối các cookie này và biết khi nào cookie được gửi đến thiết bị của bạn. Nếu bạn chọn từ chối cookie của chúng tôi, bạn có thể không sử dụng được một số phần của Dịch vụ này.",
+      "5-h2": "4. Nhà cung cấp dịch vụ",
+      "5-p-1": "Tôi có thể thuê các công ty và cá nhân bên thứ ba vì những lý do sau:",
+      "5-li-1": "Để tạo điều kiện thuận lợi cho Dịch vụ của chúng tôi;",
+      "5-li-2": "Để cung cấp Dịch vụ thay mặt chúng tôi;",
+      "5-li-3": "Để thực hiện các dịch vụ liên quan đến Dịch vụ;",
+      "5-li-4": "Để hỗ trợ chúng tôi phân tích cách Dịch vụ của chúng tôi được sử dụng;",
+      "5-p-2": "Tôi muốn thông báo cho người dùng Dịch vụ này rằng các bên thứ ba này có quyền truy cập vào Thông tin cá nhân của bạn. Lý do là để thực hiện các nhiệm vụ được giao cho họ thay mặt chúng tôi. Tuy nhiên, họ có nghĩa vụ không tiết lộ hoặc sử dụng thông tin cho bất kỳ mục đích nào khác.",
+      "6-h2": "5. Bảo mật",
+      "6-p": "Tôi đánh giá cao sự tin tưởng của bạn khi cung cấp cho chúng tôi Thông tin cá nhân của bạn, do đó chúng tôi đang nỗ lực sử dụng các biện pháp được chấp nhận về mặt thương mại để bảo vệ thông tin đó. Nhưng hãy nhớ rằng không có phương pháp truyền dữ liệu qua internet hoặc phương pháp lưu trữ điện tử nào an toàn và đáng tin cậy 100% và tôi không thể đảm bảo tính bảo mật tuyệt đối của nó.",
+      "7-h2": "6. Liên kết đến các trang web khác",
+      "7-p": "Dịch vụ này có thể chứa các liên kết đến các trang web khác. Nếu bạn nhấp vào liên kết của bên thứ ba, bạn sẽ được chuyển hướng đến trang web đó. Lưu ý rằng các trang web bên ngoài này không do tôi vận hành. Do đó, tôi thực sự khuyên bạn nên xem lại Chính sách quyền riêng tư của các trang web này. Tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách quyền riêng tư hoặc hoạt động của bất kỳ trang web hoặc dịch vụ nào của bên thứ ba.",
+      "8-h2": "7. Thay đổi đối với Chính sách quyền riêng tư này",
+      "8-p": "Tôi có thể cập nhật Chính sách quyền riêng tư của chúng tôi theo thời gian. Do đó, bạn nên xem lại trang này thường xuyên để biết bất kỳ thay đổi nào. Tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách quyền riêng tư mới trên trang này. Những thay đổi này có hiệu lực ngay sau khi được đăng trên trang này."
+    },
+    "termsConditions": {
+      "1-h1": "Điều khoản dịch vụ cho Tap4 AI Directory",
+      "1-p": "Chào mừng bạn đến với Tap4 AI Directory! Trang web của chúng tôi, có địa chỉ tại https://tap4.ai (\"Trang web\"), được dành riêng để cung cấp cho bạn khả năng tạo hình ảnh tùy chỉnh. Bằng cách truy cập hoặc sử dụng Trang web của chúng tôi, bạn đồng ý bị ràng buộc bởi các Điều khoản dịch vụ này (\"Điều khoản\"). Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản, thì bạn bị cấm sử dụng Trang web.",
+      "2-h2": "1. Giấy phép sử dụng",
+      "2-p": "Bạn được cấp giấy phép có giới hạn, không độc quyền, không thể chuyển nhượng để sử dụng Trang web và các dịch vụ của trang web cho mục đích cá nhân, phi thương mại. Giấy phép này không bao gồm bất kỳ quyền nào để sao chép, sửa đổi hoặc phân phối nội dung của Trang web hoặc sử dụng cho mục đích thương mại mà không có sự đồng ý trước bằng văn bản của chúng tôi.",
+      "3-h2": "2. Quyền sở hữu",
+      "3-p": "Quyền sở hữu hình ảnh được tạo từ văn bản trên Trang web thuộc về người đã tạo ra hình ảnh đó. Tap4.ai không tuyên bố quyền sở hữu đối với hình ảnh do người dùng tạo ra",
+      "4-h2": "3. Thu thập dữ liệu người dùng",
+      "4-p": "Chúng tôi thu thập dữ liệu cá nhân (tên, email và thông tin thanh toán) và dữ liệu phi cá nhân (cookie web) để cải thiện dịch vụ của mình. Việc sử dụng dữ liệu này được điều chỉnh bởi Chính sách quyền riêng tư của chúng tôi, có thể tìm thấy tại",
+      "terms-of-service": "terms-of-service",
+      "5-h2": "4. Luật điều chỉnh",
+      "5-p": "Các Điều khoản này sẽ được điều chỉnh và diễn giải theo luật pháp của Hoa Kỳ, không tính đến các điều khoản xung đột luật pháp của Hoa Kỳ",
+      "6-h2": "5. Thay đổi Điều khoản",
+      "6-p": "Tap4 AI Directory có toàn quyền, theo quyết định riêng của mình, sửa đổi hoặc thay thế các Điều khoản này bất kỳ lúc nào. Chúng tôi sẽ thông báo cho người dùng về bất kỳ thay đổi nào qua email. Việc bạn tiếp tục sử dụng Trang web sau bất kỳ thay đổi nào trong các Điều khoản này sẽ cấu thành sự chấp nhận của bạn đối với những thay đổi đó.",
+      "7-h2": "6. Thông tin liên hệ",
+      "7-p": "Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với chúng tôi theo địa chỉ contact@6677.ai.",
+      "last-p": "Bằng cách sử dụng Tap4 AI Directory, bạn biểu thị rằng bạn chấp nhận các Điều khoản dịch vụ này."
+    }
+  },
+  "NotFound": {
+    "title": "404 Không tìm thấy",
+    "goHome": "về trang chủ"
+  },
+  "Home": {
+    "title": "Bộ sưu tập công cụ AI tốt nhất trong Tap4 AI",
+    "subTitle": "Khám phá các công cụ AI tốt nhất với hơn 3000+ AI và 230+ Danh mục trong tap4.ai.",
+    "ai-navigate": "Công cụ AI mới trong Tap4 AI",
+    "exploreMore": "Nhận thêm công cụ AI",
+    "checkDetail": "Xem chi tiết",
+    "search": "Tìm kiếm",
+    "result": "Kết quả tìm kiếm",
+    "empty": "Không có dữ liệu khả dụng"
+  },
+  "Thể loại": {
+    "home": "Trang chủ",
+    "empty": "Không có dữ liệu khả dụng",
+    "subTitle": "Khám phá các công cụ AI tốt nhất trong Tap4 AI Directory"
+  },
+  "Submit": {
+    "title": "Gửi công cụ AI của bạn",
+    "subTitle": "Gửi công cụ AI của bạn và nhận lưu lượng truy cập từ Tap4 AI Directory",
+    "website": "Tên trang web",
+    "url": "URL trang web",
+    "submit": "Gửi",
+    "add": "Thêm",
+    "text": "vào trang chủ trang web của bạn, Sau đó, bạn có thể gửi trang web của mình thành công miễn phí!",
+    "networkError": "Lỗi mạng",
+    "success": "success"
+  },
+  "Startup": {
+    "title": "Kickstart Your Startup Launch",
+    "subTitle": "Danh sách cuối cùng các trang web để ra mắt và quảng bá công ty khởi nghiệp của bạn trực tuyến. Để thêm vào danh sách hoặc giúp gửi sản phẩm của bạn đến danh sách miễn phí, vui lòng gửi email cho chúng tôi: contact@tap4.ai. ",
+    "updateTime": "Được tuyển chọn và cập nhật hàng ngày. Cập nhật lần cuối:",
+    "table": {
+      "da": "DA",
+      "website": "Website",
+      "tags": "Tags",
+      "price": "Price",
+      "submission": "Submission"
+    },
+    "detail": {
+      "visitWebsite": "Truy cập trang web",
+      "introduction": "Giới thiệu"
+    }
+  },
+  "Explore": {
+    "title": "Khám phá các công cụ AI tốt nhất năm 2024",
+    "subTitle": "Nhận các công cụ AI yêu thích của bạn trong Danh mục công cụ AI của Tap4. Danh sách công cụ AI được GPT-4o cập nhật hàng ngày."
+  },
+  "Metadata": {
+    "home": {
+      "title": "Nhận các công cụ AI tốt nhất của bạn | Thư mục công cụ AI Tap4 nguồn mở",
+      "description": "Thư mục AI Tap4 là một công cụ cung cấp Thư mục công cụ AI miễn phí. Nhận các công cụ AI yêu thích của bạn với Thư mục AI Tap4, Thư mục AI Tap4 nhằm mục đích thu thập tất cả các công cụ AI và cung cấp những công cụ tốt nhất cho người dùng.",
+      "keywords": "Thư mục AI Tap4"
+    },
+    "ai": {
+      "titleSubfix": "Thư mục AI Tap4"
+    },
+    "explore": {
+      "title": "Khám phá các công cụ AI tốt nhất năm 2024 | Thư mục công cụ AI Tap4 nguồn mở",
+      "titlePrefix": "Thư mục AI Tap4 Explore",
+      "titleSuffix": "Thư mục AI Tap4",
+      "description": "Thư mục AI Tap4 là một công cụ cung cấp Thư mục công cụ AI miễn phí. Nhận các công cụ AI yêu thích của bạn với Tap4 AI Directory, Tap4 AI Directory hướng đến mục tiêu thu thập tất cả các công cụ AI và cung cấp những công cụ tốt nhất cho người dùng.",
+      "keywords": "Tap4 AI Directory"
+    },
+    "submit": {
+      "title": "Gửi công cụ AI của bạn và nhận Get Traffic | Tap4 AI Directory"
+    }
+  }
+}

@@ -35,6 +35,7 @@ export default function SubmitForm({ className }: { className?: string }) {
   });
 
   const onSubmit = async (formData: z.infer<typeof FormSchema>) => {
+     console.log('Submit clicked, formData:', formData); 
     let errMsg: any = t('networkError');
     try {
       setLoading(true);
@@ -63,7 +64,7 @@ export default function SubmitForm({ className }: { className?: string }) {
         className={cn(
           'mx-3 mb-5 flex h-[449px] flex-col justify-between rounded-[12px] bg-[#2C2D36] px-3 py-5 lg:h-[557px] lg:w-[444px] lg:p-8',
           className,
-        )}
+        )} 
       >
         <div className='space-y-3 lg:space-y-5'>
           <FormField

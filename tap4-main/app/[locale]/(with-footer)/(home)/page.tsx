@@ -60,7 +60,7 @@ export default async function Page() {
           <SearchForm />
           <ul className='flex w-full items-center gap-3'>
             <TagList
-              data={categoryList!.map((item) => ({
+              data={(categoryList ?? []).map((item) => ({
                 id: String(item.id),
                 name: item.name,
                 href: `/discover/#${item.name}`,

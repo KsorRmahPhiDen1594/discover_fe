@@ -1,0 +1,7 @@
+├───auth                 <=== Thư mục chức năng đăng ký đăng nhập mới
+│       AuthWrapper.tsx        (optional wrapper redirect nếu đã login)
+│       authService.ts         (logic gọi supabase auth)
+│       LoginForm.tsx          (form đăng nhập)
+│       RegisterForm.tsx       (form đăng ký)
+│       useAuth.ts             (hook lấy user hiện tại)
+│       page.tsx               (Trang login/register - dùng nextjs app router)

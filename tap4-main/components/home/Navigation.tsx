@@ -66,7 +66,10 @@ export default function Navigation() {
             </ul>
             <div className='flex items-center gap-x-3'>
               <LocaleSwitcher />
-              <Button>Submit AI</Button>
+              <Link href="/auth/login?redirect=/submit">
+  <Button>Submit AI</Button>
+</Link>
+
             </div>
           </div>
           {/* mobile */}

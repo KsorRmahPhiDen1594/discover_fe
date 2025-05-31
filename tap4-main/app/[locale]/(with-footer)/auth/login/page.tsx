@@ -1,10 +1,5 @@
-import LoginForm from '@/components/auth/LoginForm';
-import AuthWrapper from '@/components/auth/AuthWrapper';
+import { redirect } from 'next/navigation';
 
 export default function LoginPage() {
-  return (
-    <AuthWrapper requireAuth={false}>
-      <LoginForm />
-    </AuthWrapper>
-  );
+  redirect('/'); // Chuyển hướng về trang chủ
 }
